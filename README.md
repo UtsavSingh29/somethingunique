@@ -91,14 +91,11 @@ A dedicated platform for college students to interact, share, and collaborate wi
 ## How to Run
 
 1. Clone the repositories:
-   1. Frontend:
+    Frontend:
       ```bash
          git clone https://github.com/sahilbishnoi156/somethingunique.git
       ```
-    2. Backend:
-       ***
-         Still in progress, will update soon
-       ***
+    
 3. Install dependencies:
   ```bash
     npm install
